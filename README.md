@@ -6,12 +6,10 @@
 
 📍 Lima, Peru
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rodasridar.dev-FF3E7F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rodasridar.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rodasridar.dev-286A3C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rodasridar.dev)
 [![Email](https://img.shields.io/badge/Email-richard%40rodasridar.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richard@rodasridar.dev)
 [![X](https://img.shields.io/badge/X-%40rodasridar-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rodasridar)
-<!-- TODO: add LinkedIn badge
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard%20Rodas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodasridar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodasridar)
 
 </div>
 
@@ -29,15 +27,21 @@
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,nestjs,express&perline=7" alt="Frontend and backend" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,nestjs,express,dotnet&perline=8" alt="Frontend and backend" />
   <br />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,azure,docker,githubactions&perline=7" alt="Data, cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase&perline=8" alt="Databases" />
   <br />
-  <img src="https://skillicons.dev/icons?i=jest,cypress,tailwind,git,figma&perline=7" alt="Testing and tooling" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel,githubactions&perline=8" alt="Cloud and DevOps" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=jest,cypress,tailwind,git,figma&perline=8" alt="Testing and tooling" />
 </p>
 
 ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=reactivex&logoColor=white)
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-3F51B5?style=flat-square&logo=angular&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 ## GitHub stats
 

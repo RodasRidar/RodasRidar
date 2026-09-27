@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  CARD_STYLE: theme=radical&hide_border=true&border_radius=10
+  CARD_STYLE: bg_color=286a3c&title_color=ffffff&text_color=e8f5ec&icon_color=b7e4c7&ring_color=ffffff&hide_border=true&border_radius=10
 
 jobs:
   build:

@@ -48,9 +48,11 @@
 
 ## Recent projects
 
-| | |
-|:-:|:-:|
-| [![WhatsAppChatRender](./profile/pin-WhatsAppChatRender.svg)](https://github.com/RodasRidar/WhatsAppChatRender) | [![magrolabs.com](./profile/pin-magrolabs.com.svg)](https://www.magrolabs.com) |
-| [![api.magrolabs.com](./profile/pin-api.magrolabs.com.svg)](https://www.magrolabs.com) | [![magrobot](./profile/pin-magrobot.svg)](https://www.magrolabs.com) |
+<p align="center">
+  <a href="https://github.com/RodasRidar/WhatsAppChatRender"><img src="./profile/pin-WhatsAppChatRender.svg" alt="WhatsAppChatRender" width="49%" /></a>
+  <a href="https://www.magrolabs.com"><img src="./profile/pin-magrolabs.com.svg" alt="magrolabs.com" width="49%" /></a>
+  <a href="https://www.magrolabs.com"><img src="./profile/pin-api.magrolabs.com.svg" alt="api.magrolabs.com" width="49%" /></a>
+  <a href="https://www.magrolabs.com"><img src="./profile/pin-magrobot.svg" alt="magrobot" width="49%" /></a>
+</p>
 
 > 💼 Much of my professional work lives in private client repositories, so it doesn't show up here.

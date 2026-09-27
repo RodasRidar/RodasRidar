@@ -1,0 +1,28 @@
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
+  <title id="titleId">magrolabs.com</title>
+  <desc id="descId">Storefront for Magrolabs, a D2C supplements brand. Angular 18 with SSR and Angular Material.</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fe428e }
+    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9fef7 }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9fef7 }
+    .icon { fill: #f8d847 }
+  </style>
+  <rect x="0.5" y="0.5" rx="10" height="99%" width="399" fill="#141321" stroke-opacity="0" />
+  <g transform="translate(25, 35)">
+    <svg class="icon" x="0" y="-13" viewBox="0 0 16 16" width="16" height="16">
+      <path fill-rule="evenodd" d="M4 4a4 4 0 0 1 8 0v2h.25c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 12.25 15h-8.5A1.75 1.75 0 0 1 2 13.25v-5.5C2 6.784 2.784 6 3.75 6H4Zm8.25 3.5h-8.5a.25.25 0 0 0-.25.25v5.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25ZM10.5 6V4a2.5 2.5 0 1 0-5 0v2Z"/>
+    </svg>
+    <text x="25" y="0" class="header">magrolabs.com</text>
+  </g>
+  <g transform="translate(0, 55)">
+    <text class="description" x="25" y="-5">
+      <tspan dy="1.2em" x="25">Storefront for Magrolabs, a D2C supplements brand.</tspan>
+      <tspan dy="1.2em" x="25">Angular 18 with SSR and Angular Material.</tspan>
+    </text>
+    <g transform="translate(30, 45)">
+      <circle cx="0" cy="-5" r="6" fill="#3178c6" />
+      <text class="gray" x="15">TypeScript</text>
+      <text class="gray" x="84">· Private repository</text>
+    </g>
+  </g>
+</svg>

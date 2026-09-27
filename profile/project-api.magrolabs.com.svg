@@ -1,4 +1,4 @@
-<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
+<svg width="400" height="140" viewBox="0 0 400 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
   <title id="titleId">api.magrolabs.com</title>
   <desc id="descId">REST API for the Magrolabs store: products, orders, users and reviews. Express, Prisma and PostgreSQL.</desc>
   <style>
@@ -19,7 +19,7 @@
       <tspan dy="1.2em" x="25">REST API for the Magrolabs store: products, orders,</tspan>
       <tspan dy="1.2em" x="25">users and reviews. Express, Prisma and PostgreSQL.</tspan>
     </text>
-    <g transform="translate(30, 45)">
+    <g transform="translate(30, 65)">
       <circle cx="0" cy="-5" r="6" fill="#3178c6" />
       <text class="gray" x="15">TypeScript</text>
       <text class="gray" x="84">· Private repository</text>

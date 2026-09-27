@@ -1,4 +1,4 @@
-<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
+<svg width="400" height="140" viewBox="0 0 400 140" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
   <title id="titleId">magrolabs.com</title>
   <desc id="descId">Storefront for Magrolabs, a D2C supplements brand. Angular 18 with SSR and Angular Material.</desc>
   <style>
@@ -19,7 +19,7 @@
       <tspan dy="1.2em" x="25">Storefront for Magrolabs, a D2C supplements brand.</tspan>
       <tspan dy="1.2em" x="25">Angular 18 with SSR and Angular Material.</tspan>
     </text>
-    <g transform="translate(30, 45)">
+    <g transform="translate(30, 65)">
       <circle cx="0" cy="-5" r="6" fill="#3178c6" />
       <text class="gray" x="15">TypeScript</text>
       <text class="gray" x="84">· Private repository</text>

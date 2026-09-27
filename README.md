@@ -6,10 +6,10 @@
 
 📍 Lima, Peru
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rodasridar.dev-286A3C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rodasridar.dev)
-[![Email](https://img.shields.io/badge/Email-richard%40rodasridar.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richard@rodasridar.dev)
-[![X](https://img.shields.io/badge/X-%40rodasridar-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rodasridar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodasridar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodasridar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rodasridar.dev-286A3C?style=for-the-badge&labelColor=1B4D2B&logoColor=white&logo=googlechrome)](https://www.rodasridar.dev)
+[![Email](https://img.shields.io/badge/Email-richard%40rodasridar.dev-286A3C?style=for-the-badge&labelColor=1B4D2B&logoColor=white&logo=gmail)](mailto:richard@rodasridar.dev)
+[![X](https://img.shields.io/badge/X-%40rodasridar-286A3C?style=for-the-badge&labelColor=1B4D2B&logoColor=white&logo=x)](https://x.com/rodasridar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodasridar-286A3C?style=for-the-badge&labelColor=1B4D2B&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/rodasridar)
 
 </div>
 

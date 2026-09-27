@@ -11,16 +11,17 @@
 [![X](https://img.shields.io/badge/X-%40rodasridar-286A3C?style=for-the-badge&labelColor=1B4D2B&logoColor=white&logo=x)](https://x.com/rodasridar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodasridar-286A3C?style=for-the-badge&labelColor=1B4D2B&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/rodasridar)
 
+![Profile views](https://komarev.com/ghpvc/?username=RodasRidar&label=Profile%20views&color=286a3c&style=for-the-badge)
+
 </div>
 
 ## About me
 
-- 🏦 **5+ years** building complex web applications, mostly for the **banking and financial sector**.
-- 📰 Built a weekly blog platform for **100,000 employees** with Angular 21, Nx, PrimeNG, Tailwind and Cypress.
-- ⚡ Migrated a legacy ASP.NET + Angular system to **Nest.js + React microservices**, improving performance by **50%**.
-- 🔐 Designed a **Single Sign-On** system that unified employee access across an organization's applications.
-- 🤖 Integrate **LLMs, RAG and autonomous agents** into production products.
-- 🚀 Founder of **Magrolabs**, a D2C supplements brand whose entire tech stack I build and run solo.
+Hi there 👋. I'm Richard Rodas, a results-driven Full Stack Developer from Lima, Peru, with 5+ years building complex web applications, mostly for the banking and financial sector. I work across the whole stack with Angular, React and Nest.js, backed by solid testing with Jest and Cypress.
+
+Along the way I've built a weekly blog platform used by **100,000 employees**, migrated a legacy ASP.NET + Angular system to **Nest.js + React microservices** with a **50% performance gain**, and designed a **Single Sign-On** system that unified employee access across an organization's apps. Lately, I've been bringing **LLMs, RAG and autonomous agents** into production products.
+
+Beyond my 9-to-5, I'm the founder of **Magrolabs**, a D2C supplements brand whose entire tech stack I build and run solo.
 
 🌎 Spanish (native) · English (C1) · Portuguese (professional)
 
@@ -58,5 +59,3 @@
   <a href="https://www.magrolabs.com"><img src="./profile/project-api.magrolabs.com.svg" alt="api.magrolabs.com" width="49%" /></a>
   <a href="https://www.magrolabs.com"><img src="./profile/project-magrobot.svg" alt="magrobot" width="49%" /></a>
 </p>
-
-> 💼 Much of my professional work lives in private client repositories, so it doesn't show up here.

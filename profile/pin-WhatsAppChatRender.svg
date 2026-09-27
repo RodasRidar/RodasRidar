@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="120"
-        viewBox="0 0 400 120"
+        height="150"
+        viewBox="0 0 400 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #fe428e;
+            fill: #ffffff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,15 +22,15 @@
           }
           
     .description {
-      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #a9fef7;
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #e8f5ec;
       
     }
-    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9fef7 }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e8f5ec }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
-    .badge rect { opacity: 0.2; stroke: #a9fef7 }
-    .badge text { fill: #a9fef7 }
+    .badge rect { opacity: 0.2; stroke: #e8f5ec }
+    .badge text { fill: #e8f5ec }
 
-    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9fef7 }
+    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e8f5ec }
     .stagger {
       opacity: 0;
       animation: fadeInAnimation 0.3s ease-in-out forwards;
@@ -38,7 +38,7 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #f8d847;
+      fill: #b7e4c7;
       display: block;
     }
   
@@ -82,7 +82,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="399"
-          fill="#141321"
+          fill="#286a3c"
           stroke-opacity="0"
         />
 
@@ -122,10 +122,10 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">No description provided</tspan>
+      <tspan dy="1.2em" x="25">Local React app that renders exported WhatsApp .txt chats</tspan><tspan dy="1.2em" x="25">in a WhatsApp-like UI. Runs entirely in the browser; chats</tspan><tspan dy="1.2em" x="25">never leave your machine.</tspan>
     </text>
 
-    <g transform="translate(30, 45)">
+    <g transform="translate(30, 75)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f1e05a" />
@@ -134,7 +134,7 @@
     </g>
     </g>
     
-  <svg x="0" y="0"><g transform="translate(-3, 68)">
+  <svg x="0" y="0"><g transform="translate(-3, 98)">
       
     </g></svg>
     

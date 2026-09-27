@@ -11,8 +11,6 @@
 [![X](https://img.shields.io/badge/X-%40rodasridar-286A3C?style=for-the-badge&labelColor=1B4D2B&logoColor=white&logo=x)](https://x.com/rodasridar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rodasridar-286A3C?style=for-the-badge&labelColor=1B4D2B&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/rodasridar)
 
-![Profile views](https://komarev.com/ghpvc/?username=RodasRidar&label=Profile%20views&color=286a3c&style=for-the-badge)
-
 </div>
 
 ## About me
@@ -58,4 +56,8 @@ Beyond my 9-to-5, I'm the founder of **Magrolabs**, a D2C supplements brand whos
   <a href="https://www.magrolabs.com"><img src="./profile/project-magrolabs.com.svg" alt="magrolabs.com" width="49%" /></a>
   <a href="https://www.magrolabs.com"><img src="./profile/project-api.magrolabs.com.svg" alt="api.magrolabs.com" width="49%" /></a>
   <a href="https://www.magrolabs.com"><img src="./profile/project-magrobot.svg" alt="magrobot" width="49%" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RodasRidar&label=Visitor%20count&color=286a3c&style=for-the-badge" alt="Visitor count" />
 </p>
